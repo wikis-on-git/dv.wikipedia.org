@@ -1,123 +1,42 @@
+<!-- Main layout table, two columns -->
+{|
+|-
+| <!--width="50%" valign="top" |-->
+<!-- Left column -->
+{| cellspacing="0" cellpadding="5" width="100%" style="border:1px solid #006699;"
+|-
+! bgcolor="#D0E2EE" style="border-bottom:1px solid #006699; font: 125% Verdana; color:black;" |[[Wikipedia:Welcome|Welcome]] to [[ވިކިޕެދިޔ]]
+|-
+| bgcolor="#EAF5FB" style="border-bottom:1px solid #006699; font: 95% Verdana;" align="left" |<p>'''ވިކިޕެދިޔ''' is a no-cost [[Wikipedia:Copyrights|free-content]] cooperative '''[[encyclopedia]]''' in [[#lang|many languages]]. In this Divehi edition we are working on [[Special:Statistics|{{NUMBEROFARTICLES}} articles]].  Learn [[Wikipedia:How to edit a page|how to edit pages]], experiment in the [[Wikipedia:Sandbox|sandbox]], and visit our [[Wikipedia:Community Portal|Community Portal]] to find out how '''you''' can edit any article right now.<br />
+<div style="float: right">'''[[Wikipedia:Welcome|Learn more...]]'''</div>
+<!-- Left column ends -->
+<!-- Right column -->
+<!-- Right column ends -->
+|}
 
-==This subdomain is reserved for the creation of a Wikipedia in the <b>[http://en.wikipedia.org/wiki/Dhivehi Dhivehi]</b> language.==
+{| width="100%" cellspacing="0" cellpadding="5" style="border:1px solid #996600;" 
+|-
+! bgcolor="#ECE5CA" style="border-bottom:1px solid #996600; font: 125% Verdana; color:black" |Encyclopedia
+|- 
+| bgcolor="#FAF9EC" style="font: 95% Verdana;"|
+{{WikipediaTOC}}<div style="float: right;"><small>[{{SERVER}}{{localurl:Template:WikipediaTOC|action=edit}}   Edit]</small></div></td>
+|}
 
-If you speak this language and think it would be cool to have your own Encyclopedia then '''you''' can make it.
+{| width="100%" cellspacing="0" cellpadding="5" style="border:1px solid #006699;" 
+|-
+! bgcolor="#D0E2EE" style="border-bottom:1px solid #006699; font: 125% Verdana; color:black" |Wikipedia in other languages
+|-
+|  bgcolor="#FFFFFF" style="font: 95% Verdana;" align="left" |
+{{WikipediaLang}}
+<div style="float: right"><small>[{{SERVER}}{{localurl:Template:WikipediaLang|action=edit}} Edit]</small></div>
+|}
 
-'''''Go ahead. Translate this page and start working on your Encyclopedia.'''''
+{| width="100%" cellspacing="0" cellpadding="5" style="border:1px solid #006699;" 
+|-
+! bgcolor="#D0E2EE" style="border-bottom:1px solid #006699; font: 125% Verdana; color:black" |Sister projects
+|-
+| bgcolor="#FFFFFF" style="font: 95% Verdana;" align="left" |{{Wikipediasister}}
+|}
 
-[http://en.wikipedia.org For more information go to the main website]
-
-
-<div style="width:85%; padding:10px; background-color:#ffffcc; border:1px solid #ffff66;">
-
-'''Other wikis'''
-<small> [http://sep11.wikipedia.org September 11 memorial wiki/Wiki memoriale des 11 Septembrem] | [http://meta.wikipedia.org Meta-Wikipedia/Meta-Vicipaedia] | [http://wiktionary.org Wikitonary/Victionaria] | [http://wikibooks.org Wikibooks/Vicilibraria] | [http://wikiquote.org Wikiquote/Viciquotas] | [http://wikisource.org Wikisource] | [http://wikitravel.org Wikitravel] </small>
-</div>
-
-[[aa:]]
-[[af:]]
-[[als:]]
-[[ar:]]
-[[de:]]
-[[en:]]
-[[as:]]
-[[ast:]] <!-- missing WikiMedia 1.3 support -->
-[[ay:]]
-[[az:]]
-[[be:]]
-[[bg:]]
-[[bn:]]
-[[bo:]]
-[[bs:]]
-[[cs:]]
-[[co:]]
-[[cs:]]
-[[cy:]]
-[[da:]]
-[[el:]]
-[[eo:]]
-[[es:]]
-[[et:]]
-[[eu:]]
-[[fa:]]
-[[fi:]]
-[[fr:]]
-[[fy:]]
-[[ga:]]
-[[gl:]]
-[[gn:]]
-[[gu:]]
-[[he:]]
-[[hi:]]
-[[hr:]]
-[[hy:]]
-[[ia:]]
-[[id:]]
-[[is:]]
-[[it:]]
-[[ja:]]
-[[ka:]]
-[[kk:]]
-[[km:]]
-[[kn:]]
-[[ko:]]
-[[ks:]]
-[[ku:]]
-[[ky:]]
-[[la:]]
-[[ln:]] <!-- missing WikiMedia 1.3 support -->
-[[lo:]]
-[[lt:]]
-[[lv:]]
-[[hu:]]
-[[mi:]]
-[[mk:]]
-[[ml:]]
-[[mn:]]
-[[mr:]]
-[[ms:]]
-[[mt:]] <!-- missing WikiMedia 1.3 support -->
-[[my:]]
-[[na:]]
-[[nah:]]
-[[nds:]]
-[[ne:]]
-[[nl:]]
-[[no:]]
-[[oc:]]
-[[om:]]
-[[pa:]]
-[[pl:]]
-[[ps:]]
-[[pt:]]
-[[qu:]]
-[[ro:]]
-[[ru:]]
-[[sa:]]
-[[si:]]
-[[sk:]]
-[[sl:]]
-[[sq:]]
-[[sr:]]
-[[sv:]]
-[[sw:]]
-[[ta:]]
-[[te:]]
-[[tg:]]
-[[th:]]
-[[tk:]]
-[[tl:]]
-[[tr:]]
-[[tt:]]
-[[ug:]]
-[[uk:]]
-[[ur:]]
-[[uz:]]
-[[vi:]]
-[[vo:]]
-[[xh:]]
-[[yo:]]
-[[za:]]
-[[zh:]]
-[[zu:]]
-
+__NOTOC__
+__NOEDITSECTION__

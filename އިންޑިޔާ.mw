@@ -1,56 +1,46 @@
-{| border=1 align=left cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big>ހިންދުސްތާން <br />भारत गणराज्य<br /> Bhāraţa Gaņarājya</big>
-|-
-| style="background:#efefef;" align="center" colspan="2" |
-{| border="0" cellpadding="2" cellspacing="0"
-| align="center" width="140px" | [[Image:Flag of India.svg|125px|]]
-| align="center" width="140px" | [[Image:EmblemofIndia-small.png|EmblemofIndia-small.png]]
-|-
-| align="center" width="140px" | ([[Flag of India|ދިދަ]])
-| align="center" width="140px" | ([[Coat of arms of India|ނިޝާން]])
-|}
-|-
-| align=center style="vertical-align: top;" colspan=2 | <small>''[[National motto|ޤައުމީ މޮޓޯ]]: ސަތިޔަމޭވާ ޖަޔަތޭ</small>
-|-
-| align=center colspan=2 style="background: #ffffff;" | [[Image:IndiaLocation.png|320px|]]
-|-
-| '''[[Official language|ޤައުމީ ބަސް]]'''
-| [[Hindi language|ހިންދީ]] އާއި [[English language|އިނގިރޭސި]] އަދި އިތުރު 21 ބަސް
-|-
-| '''[[Capital|ވެރި ރަށް]]'''
-| [[New Delhi|ދިއްލީ]]
-|-
-| '''[[Mega cities|އެންމެ ބޮޑު ޝަހަރު]]'''
-| [[Mumbai|މުންބާއީ]]
-|-
-| '''[[President of India|ރައީސް]]'''
-| [[APJ Abdul kalam|އޭ. ޕީ. ޖޭ ޢަބްދުލްކަލާމް]]
-|-
-| '''[[Prime Minister of India|ބޮޑު ވަޒީރު]]'''
-| [[Manmohan Singh|ޑރ. މަންމޯހަން ސިންހ]]
-|-
-| '''[[Area|އަކަމިން]]'''<br>&nbsp;- ޖުމްލަ <br>&nbsp;- % ފެން
-| [[List of countries by area|7 ވަނަ ފަށް]] <br> 3,287,590 [[square kilometre|ކމ&sup2;]] <br> <br>&nbsp;- 9.56
-|-
-| '''[[Population|އާބާދީ]]'''<br>&nbsp;- ޖުމްލަ (އަހަރު) <br>&nbsp;- [[Population density|އަކަބުރަ]]
-| [[List of countries by population|2 ވަނަ ފަށް]]<br> 1,089,000,000 (2005 އަންދާސީ.)<br> 329/ކމ&sup2;
-|-
-| '''[[Currency|ފައިސާ]]'''
-| [[Rufiyaa|ރުޕީ]] 
-|-
-| '''[[Time zone|ވަގުތު ޒޯން]]'''
-| [[Coordinated Universal Time|ބއގ]] +5:30
-|-
-| '''[[Independence|މިނިވަން ދުވަސް]]'''
-| 15 އޮގަސްޓް 1947
-|-
-| '''[[National anthem|ޤައުމީ ސަލާމް]]'''
-| ޖަނަ ގަޱަ މަނަ
-|-
-| '''[[Top-level domain|އިންޓަނެޓް ކޯޑު]]'''
-| [[.in]]
-|-
-| '''[[List of country calling codes|ފޯން ކޯޑު]]'''
-| +91
-|}
-ހިންދުސްތާން (ނުވަތަ އިންޑިޔާ) އަކީ ދެކުނު އޭޝިޔާ އަށް ނިސްބަތް ވާ ޤައުމެކެވެ. [[Indian subcontinent|ބައްރެ ޞަޣީރު]] ގެ ބޮޑުބައި ހިމެނެނީ މިޤައުމުގެ އިމުގެ ތެރޭގައެވެ.
+{{Infobox Country|
+native_name = ހިންދުސްތާން<br />Republic of India <br />भारत गणराज्य<br /> Bhāraţa Gaņarājya<!-- IF YOU CANNOT SEE THE 'N' UPGRADE YOUR BROWSER -->|
+common_name = India|the=|
+image_flag = Flag of India.svg |
+image_coat = EmblemofIndia-small.png |
+national_motto = [[Satyameva Jayate|ސައްތްޔަމޭވަ ޖަޔަތޭ]]<br /> [[Sanskrit]]: सत्यमेव जयते <br>{{IPA|/sətyəmeːvə ɟəjəteː/}}<br /> (Truth Alone Triumphs) |
+image_map = IndiaLocation.png |
+national_anthem = [[Jana Gana Mana|ޖަނަ ގަޱަ މަނަ]]<br /> [[Sanskrit]]: जन गण मन <br>{{IPA|/ɟənə gəɳə mənə/}}|
+official_languages = [[Hindi|ހިންދީ]], [[English|އިނގިރޭސި]], އަދި [[List of national languages of India|އިތުރު އެހެން 21 ބަސް]] |
+capital = [[New Delhi|ނިއުދިއްލީ]] |
+latd = 28|latm=34|latNS=ނ|longd=77|longm=12|longEW=އ |
+government_type = [[Federal republic|ފެޑެރަލް ޖުމްހޫރީ]] |
+leader_titles = [[President of India|ރައީސް]]<br />[[Prime Minister of India|ބޮޑު ވަޒީރު]] |
+leader_names = [[APJ Abdul Kalam|އޭ.ޕީ.ޖޭ ޢަބްދުލްކަލާމް]]<br />[[Manmohan Singh|ޑރ. މަންމޯހަން ސިންހ]] | largest_city = [[Mumbai|މުންބާއީ]] (ބޮމްބޭ) |
+area = 3,287,590 |
+area_rank = ހަތްވަނަ |
+area_magnitude = 1 E12 |
+percent_water = 9.56 |
+population_estimate = 1,112,225,812|
+population_estimate_year = 2006 |
+population_estimate_rank = 2 ވަނަ |
+population_census = 1,027,000,000 |
+population_census_year = 2001 |
+population_density = 329 |
+population_density_rank = ނަވާރަވަނަ |
+GDP_PPP_year = 2005 |
+GDP_PPP = $3.602&nbsp;[[1 E12|ތިރިލިއަން]] |
+GDP_PPP_rank = 4 ވަނަ |
+GDP_PPP_per_capita = $3262 |
+GDP_PPP_per_capita_rank = 125 ވަނަ |
+HDI_year = 2003 |
+HDI = 0.602 |
+HDI_rank = 127 ވަނަ |
+HDI_category = <font color="#FFCC00">މެދުމިން</font> |
+sovereignty_type = [[Independence of India|މިނިވަންވުން]] |
+established_events = &nbsp;- އިޢުލާންކުރީ<br />&nbsp;- ޖުމްހޫރިއްޔާ |
+established_dates = [[United Kingdom|އިނގިރޭސިވިލާތު]] ގެ ކިބައިން<br />[[1947-08-15]]<br />[[1950-01-26]] |
+currency = [[Indian Rupee|ރުޕީ]] (ރ.)<sup>1</sup> |
+currency_code = INR |
+time_zone = [[Indian Standard Time|IST]] |
+utc_offset = +5:30 |
+time_zone_DST = ބެލިފައެއް ނުވޭ |
+utc_offset_DST = +5:30|
+cctld = [[.in]] |
+calling_code = 91
+}}ހިންދުސްތާން (ނުވަތަ އިންޑިޔާ) އަކީ ދެކުނު އޭޝިޔާ އަށް ނިސްބަތް ވާ ޤައުމެކެވެ. [[Indian subcontinent|ބައްރެ ޞަޣީރު]] ގެ ބޮޑުބައި ހިމެނެނީ މިޤައުމުގެ އިމުގެ ތެރޭގައެވެ.

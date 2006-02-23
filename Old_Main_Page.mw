@@ -66,21 +66,15 @@
 <div style="float: right"><small>[{{SERVER}}{{localurl:Template:WikipediaTOC|action=edit}} އިތުރުކުރައްވާ]</small></div></td>
 |}
 
-{| width="100%" cellspacing="0" cellpadding="5" style="border:1px solid #006699;" 
-|-
-! bgcolor="#D0E2EE" style="border-bottom:1px solid #006699; font: 125% Verdana; color:black" |އެހެނިހެން ބަސްބަހުން ވީކިޕީޑިއާ!
-|-
-|  bgcolor="#FFFFFF" style="font: 95% Verdana;" align="left" |
-{{WikipediaLang}}
-<div style="float: right"><small>[{{SERVER}}{{localurl:Template:WikipediaLang|action=edit}} ބަދަލުގެންނަވާ]</small></div>
-|}
-
-{| width="100%" cellspacing="0" cellpadding="5" style="border:1px solid #006699;" 
-|-
-! bgcolor="#D0E2EE" style="border-bottom:1px solid #006699; font: 125% Verdana; color:black" |އަޚަވީ މަޝްރޫޢުތައް
-|-
-| bgcolor="#FFFFFF" style="font: 95% Verdana;" align="left" |{{Wikipediasister}}
-|}
+<div class="MainPageBG" style="padding: .5em 1em 0; margin: 0 3px 3px; border-bottom: 2px solid #ccc">
+<h3 id="lang_h3" class="lang">އެހެން ބަސްބަހުން ވީކިޕީޑިއާ</h3>
+<div id="lang_div" class="lang">ތިޔަ ބޭފުޅުންނަށް ތަފާތު ބަސްބަހުން މަޒުމޫނު ވިދާޅުވެ، އެ މަޒުމޫނުތަކަށް މަޢުލޫމާތު އިތުރުކޮށް ދެއްވިދާނެއެވެ.</div>
+{{Wikipedialang}}<!-- Template:Wikipedialang -->
+</div>
+<div class="MainPageBG" style="padding: .5em 1em 1em; margin: 3px;">
+===<span id="sister_heading" class="sister">ވީކިޕީޑިއާގެ އަޚަވީ މަޝްރޫޢުތައް</span>===
+{{Wikipediasister}}<!-- Template:Wikipediasister -->
+<div style="clear:left"></div>
 
 __NOTOC__
 __NOEDITSECTION__

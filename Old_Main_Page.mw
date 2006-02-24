@@ -65,7 +65,11 @@
 [[:Category:Main|އާންމު]] - [[Special:Categories|ހުރިހާ ގިސްމުތައް]] - [[Wikipedia:Featured articles|ހޮވާލެވޭ މަޒުމޫނުތައް]]
 |}
 
-<div style="float: right"><small>[{{SERVER}}{{localurl:Template:WikipediaTOC|action=edit}} އިތުރުކުރައްވާ]</small></div></td>
+<div align=center style="float: center"><br/></font><font face="Faruma, ,Arial" size="3" color="B12F21">
+<big>'''އައު މަޒުމޫނެއް ޝާއިއުކުރެއްވުމަށް ސުރުޙީ ލިޔުއްވާ!'''</big>
+<inputbox>
+type=create
+</inputbox></div></td>
 |}
 
 <div class="MainPageBG" style="padding: .5em 1em 0; margin: 0 3px 3px; border-bottom: 2px solid #ccc">

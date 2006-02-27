@@ -1,79 +1,7 @@
-<!-- Main layout table, two columns -->
-{|
-|-
-| <!--width="50%" valign="top" |-->
 <p align="center">[[Image:Suvaasthi.png]]<br><font face="times new roman" size="3">[[Tāna Support]]</font> <font face="Faruma, times new roman" size="4"> | [[FAQs on composing Thaana on the computer|ކޮންޕީޓަރުން ތާނަ ލިޔެކިޔުމަށް މަގެއް]]</font> | <font face="times new roman" size="3">[[Word translations|Translation of useful words]]</font></p>
-<!-- Left column -->
-{| cellspacing="0" cellpadding="5" width="100%" style="border:1px solid #006699;"
-|-
-! bgcolor="#ddddff" style="border-bottom:1px solid #C9AFFF; font: 125% Verdana; color:black;" |
-|-
-| bgcolor="#f3f3ff" style="border-bottom:1px solid #C9AFFF; font: 95% Verdana;" align="right" |<p>
-{{Welcome}}
-<br />
-
-<div style="float: right">'''[[Wikipedia:Welcome|ބޮޑަށް ތަޢާރަފް ވެލައްވާ...]]'''</div>
-
-<!-- Left column ends -->
-<!-- Right column -->
-{| cellspacing="0" cellpadding="5" width="100%" style="border:1px solid #006699;"
-|-
-! bgcolor="#ddffdd" style="border-bottom:1px solid #7AB67F; font: 125% Verdana; color:black;" |މުހިއްމު މައުޞޫޢުތައް
-|-
-| bgcolor="#f3fff3" style="border-bottom:1px solid #7AB67F; font: 95% Verdana;" align="right" |<p>
-*[[ހިންދުސްތާން]] <br>
-*[[ނޭޕާލް]] <br>
-*[[ބަންގާޅު]] <br>
-*[[ބޫޓާން]] <br>
-*[[އައްފާނިސްތާން]] <br>
-*[[ދިވެހިރާއްޖެ]]<br>
-*[[ސިރީ ލަންކާ]]
-*[[ޕާކިސްތާން]] <br>
-<!-- Right column ends -->
-|}
-
-{| width="100%" cellspacing="0" cellpadding="5" style="border:1px solid #996600;" 
-|-
-! bgcolor="#ECE5CA" style="border-bottom:1px solid #996600; font: 125% Verdana; color:black" |އެކުމާފާނު
-|- 
-| bgcolor="#FAF9EC" style="font: 95% Verdana;"|
-{| style="background-color: #FAF9EC;"
-| style="vertical-align: top; width:50%;" |
-''' ޠަބީޢީ އަދި ހިސާބީ ޢިލްމުތައް '''<br />
-[[Astronomy|ފަލަކީ ޢިލްމު]] - [[Botany|ގަހަވީ ޢިލްމު]] - [[Chemistry|ކީމިޔާއީ ޢިލްމު]] - [[Ecology|އިކޮލޮޖީ]] - [[Entomology|އެންޓޮމޮލޮޖީ]] - [[Mathematics|ޙިސާބު ޢިލްމު]] - [[Physics|ފީޒިޔާއީ ޢިލްމު]] - [[Earth science|ބިމުގެ ޢިލްމު]] - [[Biology|ދިރުމާބެހޭ ޢިލްމު]] - [[Statistics|ތަފާސް ޙިސާބު]]
-
-''' އިޖްތިމާޢީ ޢިލްމުތައް '''<br />
-[[Anthropology|އެންތުރޮޕޮލޮޖީ]] - [[Archaeology|އާކިއޮލޮޖީ]] - [[Education|ތަޢުލީމު]] - [[Geography|ޖޫރާފީ]] - [[History|ތާރީޚު]]  - [[Language|ބަސްތައް]] އާއި [[Linguistics|ބަހަވީ ޢިލްމު]] - [[Musicology|ސަންގީތީ ޢިލްމު]] - [[Pedagogy|ޕެޑަގޮގީ]] - [[Philosophy|ފަލްސަފާ]] - [[Psychology|ނަފްސާނީ ޢިލްމު]] - [[Cognitive science|ކޮގްނިޓިވް ޢިލްމު]] -  [[Library and information science|ކުތުބުޚާނާ އާއި މަޢުލޫމާތުގެ ޢިލްމު]] - [[Sociology|އިޖްތިމާޢީ ޢިލްމު]]
-
-''' ސިޔާސަތާއި ޤާނޫނާއި މުޖްތަމަޢު '''<br />
-[[Commerce|ކޮމާރސް]] - [[Defense|ދިފާޢޫ]] - [[Law|ޤާނޫނު]] - [[Economy|އިޤްތިޞާދު]] - [[Enterprise|އެންޓަޕްރައިސް]] - [[Family|ޢާއިލާ]] - [[Environment|ވެށީގެ ޢިލްމު]] - [[Professions|ޕްރޮފެޝަންތައް]] - [[Politics|ސިޔާސަތު]] - [[Urbanism|އާރބަނިޒަމް]] 
-
-''' ދީނާއި ޢަޤީދާ '''<br />
-[[Animism|އެނިމިޒަމް]] - [[Atheism|އިލްހާދިއްޔަތު]] - [[Buddhism|ބުޑިޒަމް]] - [[Christianity|މަސީޙީ ދީން]] - [[Esotericism|އެސޯޓެރިސިޒަމް]] - [[Hinduism|ހިންދޫ ދީން]] - [[Islam|އިސްލާމް ދީން]] - [[Jainism|ޖަޔަނިޒަމް]] - [[Judaism|ޔަހޫދީ ދީން]] - [[Mythology|މިތޮލޮޖީ]] - [[Mysticism|މިސްޓިސިޒަމް]] - [[Religion|ދީން]] - [[Sect|މަޒުހަބު]] - [[Sikhism|ސިކުންގެ ދީން]] - [[Spirituality|ރޫޙާނިއްޔަތު]] - [[Theology|ތިއޮލޮޖީ]]
-| style="vertical-align: top;" |
-''' ފައްނާއި ސަގާފަތު '''<br />
-[[Art|ފައްނު]] - [[Visual arts|ތަޞައްވުރީ ފައްނުތައް]] - [[Fine arts|ކުރެހުމުގެ ފައްނު]] - [[Applied arts|މައިދާނީ ފައްނުތައް]] - [[Cinema|ބައިސްކޯފް]] - [[Popular culture|މަޤްބޫލު ސަގާފަތު]] - [[Dance|ނެށުން]] - [[Literature|އަދަބިއްޔާތު]] - [[Media|ޚަބަރު ފަތުރާ ދާއިރާ]] - [[Music|ސަންގީތު]] - [[Photography|ފޮޓޮގްރަފީ]]
-
-''' މައިދާނީ ޢިލްމުތަކާއި ސިނާޢަތު '''<br />
-[[Aerospace|އޭރޯ ސްޕޭސް]] - [[Agriculture|ދަނޑުވެރިކަން]] - [[Architecture|އަރކިޓެކްޗަރ]] - [[Astronomy|ފަލަކީ ޢިލްމު]] - [[Communication|މުވާޞަލާތު]]  - [[Electricity|އިލެކްޓްރިސިޓީ]] - [[Electronics|އިލެކްޓްރޯނިކްސް]] - [[Industry|ސިނާޢަތު]] - [[Informatics|އިންފޯމެޓިކްސް]] - [[Internet|އިންޓަނެޓް]] - [[Engineering|އިންޖިނިއަރިން]] - [[Management|ހިންގުން]] - [[Medicine|ބޭސްވެރިކަން]] - [[Technology|ޓެކްނޮލޮޖީ]] - [[Telecommunications|ޓެލެކޮމިއުނިކޭޝަން]] - [[Transport|ދަތުރުފަތުރު]]
-
-''' ޢާއްމު ދިރި އުޅުމާއި މުނިފޫހިފިލުވުން '''<br />
-[[Do it yourself|އަމިއްލަފުޅަށް ކުރައްވާ]] - [[Cuisine|ކެއްކުން]] - [[Entertainment|މުނިފޫހިފިލުވުން]] - [[Gardening|ބަގީޗާ ހެއްދުން]] - [[Game|ކުޅިވަރު]]ތައް - [[Nutrition|ނިއުޓްރިޝަން]] - [[Health|ޞިއްޙަތު]] - [[Sexuality|އިންސާނީ ޖިންސިއްޔާތު]] - [[Sport|ކުޅިވަރު]] - [[Tourism|ފަތުރުވެރިކަން]]
-
-''' އެހެނިހެން '''<br />
-[[Wikipedia:Index|އިންޑެކްސް]] - [[List of lists|ލިސްޓުތަކުގެ ލިސްޓް]] - [[List of places|ތަންތަނުގެ ލިސްޓު]] - [[Wikipedia:List of portals|ޕޯޓަލްތަކުގެ ލިސްޓު]] - [[Biographies|ޙާލާތެ ޒިންދަގީ]] - [[Recettes du mois|ރެސެޓޭ ޑު މޮއި]]
-
-''' ތަފާތު ގިސްމުތަކުގައި ވީކިޕީޑިއާ'''<br />
-[[:Category:Main|އާންމު]] - [[Special:Categories|ހުރިހާ ގިސްމުތައް]] - [[Wikipedia:Featured articles|ހޮވާލެވޭ މަޒުމޫނުތައް]]
-|}
-
-<div align=center style="float: center"><br/></font><font face="Faruma, ,Arial" size="3" color="B12F21">
-<big>'''އައު މަޒުމޫނެއް ޝާއިއުކުރެއްވުމަށް ސުރުހީ ލިޔުއްވާ!'''</big>
-<inputbox>
-type=create
-</inputbox></div></td>
-|}
-
+{{welcome}}
+{{Wikiessay}}
+{{wikicomm}}
 <div class="MainPageBG" style="padding: .5em 1em 0; margin: 0 3px 3px; border-bottom: 2px solid #ccc">
 <h3 id="lang_h3" class="lang">އެހެން ބަސްބަހުން ވީކިޕީޑިއާ</h3>
 <div id="lang_div" class="lang">ތިޔަ ބޭފުޅުންނަށް ތަފާތު ބަސްބަހުން މަޒުމޫނު ވިދާޅުވެ، އެ މަޒުމޫނުތަކަށް މަޢުލޫމާތު އިތުރުކޮށް ދެއްވިދާނެއެވެ.</div>
@@ -83,7 +11,6 @@ type=create
 ===<span id="sister_heading" class="sister">ވީކިޕީޑިއާގެ އަޚަވީ މަޝްރޫޢުތައް</span>===
 {{Wikipediasister}}<!-- Template:Wikipediasister -->
 <div style="clear:left"></div>
-
 [[en:Main_Page]]
 [[ur:صفحہ_اول]]
 [[he:עמוד_ראשי]]
